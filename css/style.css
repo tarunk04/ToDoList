@@ -7,9 +7,21 @@ p{
   box-shadow: 2px 2px 8px #000000;
   text-shadow: 4px 4px 8px #111111;
 }
+h1
+{
+  border: 2px solid #24292e;
+  border-radius: 10px;
+  color: #24292e;
+  text-shadow: 4px 4px 8px #111111;
+  text-align: center;
+}
 .imp
 {
   opacity: 0.9;
+}
+.notImp
+{
+  opacity: 0.5;
 }
 .description
 {
@@ -47,4 +59,13 @@ p{
   color: gray;
   position: relative;
   left: 30px;
+}
+.btns
+{
+  color: #d6d6c2;
+  background: #24292e;
+  border: none;
+  padding: 10px;
+  box-shadow: 2px 2px 8px #000000;
+
 }
