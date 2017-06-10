@@ -1,0 +1,50 @@
+p{
+  color: white;
+  opacity: 0.5;
+  background: #24292e;
+  padding: 5px;
+  margin: 5px;
+  box-shadow: 2px 2px 8px #000000;
+  text-shadow: 4px 4px 8px #111111;
+}
+.imp
+{
+  opacity: 0.9;
+}
+.description
+{
+  color: #b3e6ff;
+  position:absolute;
+  left: 160px;
+}
+
+.deadline
+{
+  color: #ff1a1a;
+  position: absolute;
+  left: 1000px;
+}
+.icons
+{
+  color: #cc0066;
+  position: absolute;
+  left: 1250px;
+}
+.icon-1
+{
+  position: relative;
+  left: 5px;
+}
+.icon-2
+{
+  color: gray;
+  padding: 5px;
+  position: relative;
+  left: 50px;
+}
+.icon-3
+{
+  color: gray;
+  position: relative;
+  left: 30px;
+}
