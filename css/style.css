@@ -12,7 +12,7 @@ h1
   border: 2px solid #24292e;
   border-radius: 10px;
   color: #24292e;
-  text-shadow: 4px 4px 8px #111111;
+  2px 2px 6px #111111;
   text-align: center;
 }
 .imp
@@ -60,6 +60,9 @@ h1
   position: relative;
   left: 30px;
 }
+.icon-1:hover,.icon-2:hover,.icon-3:hover{
+cursor:pointer;
+}
 .btns
 {
   color: #d6d6c2;
@@ -68,4 +71,7 @@ h1
   padding: 10px;
   box-shadow: 2px 2px 8px #000000;
 
+}
+.btns:hover{
+	cursor:pointer;
 }
