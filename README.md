@@ -12,3 +12,5 @@ The design is elegant. With pretty-looking fontawesome icons, you can do the fol
 
 Hope it will make it a lot easier to manage ToDos.
 
+Please make sure to open this web app in incognito mode to avoid any problem.
+
